@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+As a versatile full-stack developer 😎, I navigate the realms of web development with finesse, wielding a powerful arsenal of technologies. My proficiency extends across PHP and Laravel for robust back-end architecture, Python and Django for elegant server-side solutions, and Vue.js, Livewire, Inertia.js, along with a mastery of front-end frameworks like Bootstrap and Tailwind for creating seamless user interfaces. I'm not just a coder; I'm an architect crafting digital experiences. Join me on this journey through the intricacies of code and let's build the future together.
+
+- 😄 Pronouns: He/Him
+
 <!--
 **Alkwarizm/alkwarizm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
