@@ -1,10 +1,6 @@
-# Hi there, I'm Alkwarizm! 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Web+Architecture+Enthusiast;Digital+Experience+Craftsman;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
-
-## 🚀 About Me
 
 I'm a **versatile full-stack developer** who navigates the realms of web development with finesse, wielding a powerful arsenal of modern technologies. I don't just write code—I architect digital experiences that make a difference.
 
