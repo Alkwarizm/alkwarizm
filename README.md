@@ -61,30 +61,6 @@ I'm a **versatile full-stack developer** who navigates the realms of web develop
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏥 [Hospital Management System](https://github.com/Alkwarizm/gigsama-backend-test)
-A comprehensive backend system for hospital management with robust API architecture.
-- **Tech Stack:** Python, Django, REST API
-- **Features:** Patient management, appointment scheduling, medical records
-
-### 🗣️ [Healthcare Translation App](https://github.com/Alkwarizm/speech-recognition)
-AI-powered healthcare translation web application with generative AI capabilities.
-- **Tech Stack:** Python, Speech Recognition, AI/ML
-- **Features:** Real-time translation, healthcare-specific terminology
-
-### 🏪 [E-commerce Store Front](https://github.com/Alkwarizm/safe-haven-foods-store)
-Modern e-commerce platform for food retail with clean, responsive design.
-- **Tech Stack:** Modern web technologies, responsive design
-- **Features:** Product catalog, shopping cart, order management
-
-### 💼 [Profile Management System](https://github.com/Alkwarizm/profile-management)
-Complete user management solution with authentication and account features.
-- **Tech Stack:** PHP, Laravel, Bootstrap
-- **Features:** Registration, account activation, password recovery
-
----
-
 ## 🎯 Current Focus
 
 - 🔥 **Mastering:** Cloud-native architectures and microservices
@@ -122,4 +98,3 @@ Complete user management solution with authentication and account features.
 <div align="center">
   <i>⭐️ From [Alkwarizm](https://github.com/Alkwarizm)</i>
 </div>
-
